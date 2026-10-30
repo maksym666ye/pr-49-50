@@ -1,0 +1,11 @@
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll

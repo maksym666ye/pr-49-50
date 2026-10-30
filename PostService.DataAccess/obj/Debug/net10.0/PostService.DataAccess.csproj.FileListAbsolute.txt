@@ -1,0 +1,17 @@
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.deps.json
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.AssemblyReference.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfo.cs
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostServ.B036F149.Up2Date
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\refint\PostService.DataAccess.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.DataAccess\obj\Debug\net10.0\ref\PostService.DataAccess.dll

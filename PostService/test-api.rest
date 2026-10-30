@@ -1,0 +1,19 @@
+GET http://localhost:5177/postings
+
+GET http://localhost:5177/postings/1
+
+POST http://localhost:5177/postings
+Content-Type: application/json
+
+{
+    "from": "Рівне",
+    "to": "Луцьк",
+    "content": "Подарунок",
+    "deliveryType": 0,
+    "weight": 5.0,
+    "width": 10.0,
+    "height": 10.0,
+    "depth": 10.0,
+    "value": 1000.0,
+    "price": 95.0
+}

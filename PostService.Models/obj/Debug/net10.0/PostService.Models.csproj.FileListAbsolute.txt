@@ -1,0 +1,15 @@
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\bin\Debug\net10.0\PostService.Models.deps.json
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\bin\Debug\net10.0\PostService.Models.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\bin\Debug\net10.0\PostService.Models.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.csproj.AssemblyReference.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.AssemblyInfoInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.AssemblyInfo.cs
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.csproj.CoreCompileInputs.cache
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostServ.8DFD188A.Up2Date
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\refint\PostService.Models.dll
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\PostService.Models.pdb
+C:\Users\petka\Desktop\PostServiceSol\PostService.Models\obj\Debug\net10.0\ref\PostService.Models.dll

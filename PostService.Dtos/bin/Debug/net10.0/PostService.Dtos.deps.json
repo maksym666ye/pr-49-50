@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PostService.Dtos/1.0.0": {
+        "dependencies": {
+          "PostService.CommonTypes": "1.0.0"
+        },
+        "runtime": {
+          "PostService.Dtos.dll": {}
+        }
+      },
+      "PostService.CommonTypes/1.0.0": {
+        "runtime": {
+          "PostService.CommonTypes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostService.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostService.CommonTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

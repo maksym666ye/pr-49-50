@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>PostService.. Список відправлень</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>PostService</h1>
+        <nav>
+            <a href="index.html">Головна</a>
+            <a href="postings.html" class="active">Список відправлень</a>
+            <a href="about.html">Про програму</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>Список поштових відправлень</h2>
+        <div class="toolbar">
+            <a href="edit.html" class="btn primary">Створити відправлення</a>
+            <button onclick="loadPostings()" class="btn secondary">Оновити</button>
+        </div>
+        <table id="postingsTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Звідки</th>
+                    <th>Куди</th>
+                    <th>Вміст</th>
+                    <th>Тип</th>
+                    <th>Вага (кг)</th>
+                    <th>Вартість (грн)</th>
+                    <th>Дії</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </main>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', loadPostings);
+    </script>
+</body>
+</html>

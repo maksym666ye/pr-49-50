@@ -1,0 +1,44 @@
+### 1
+GET http://localhost:5201/postings
+
+### 2
+GET http://localhost:5201/postings/1
+
+### 3
+GET http://localhost:5201/postings/999
+
+### 4
+POST http://localhost:5201/postings
+Content-Type: application/json
+
+{
+    "from": "Київ",
+    "to": "Львів",
+    "content": "Документи",
+    "deliveryType": 1, 
+    "weight": 2.5,
+    "width": 20,
+    "height": 15,
+    "depth": 2,
+    "value": 100
+}
+
+### 5
+PUT http://localhost:5201/postings/1
+Content-Type: application/json
+
+{
+    "from": "Ivan",
+    "to": "Olena",
+    "content": "Documents 2",
+    "deliveryType": 2,
+    "weight": 0.6,
+    "width": 20,
+    "height": 15,
+    "depth": 2,
+    "value": 120,
+    "price": 20
+}
+
+### 6
+DELETE http://localhost:5201/postings/1

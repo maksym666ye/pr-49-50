@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PostService.BusinessLogic\PostService.BusinessLogic.csproj" />
+    <ProjectReference Include="..\PostService.Dtos\PostService.Dtos.csproj" />
+    <ProjectReference Include="..\PostService.DataAccess\PostService.DataAccess.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

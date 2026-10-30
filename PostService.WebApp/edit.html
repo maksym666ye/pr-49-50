@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>PostService. Відправлення</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>PostService</h1>
+        <nav>
+            <a href="index.html">Головна</a>
+            <a href="postings.html">Список відправлень</a>
+            <a href="about.html">Про програму</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h2 id="formTitle">Нове відправлення</h2>
+        <form id="postingForm" onsubmit="savePosting(event)">
+            <input type="hidden" id="postingId">
+
+            <div class="form-group">
+                <label>Звідки:</label>
+                <input type="text" id="from">
+                <span class="error-msg" id="errorFrom"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Куди:</label>
+                <input type="text" id="to">
+                <span class="error-msg" id="errorTo"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Вміст:</label>
+                <input type="text" id="content">
+                <span class="error-msg" id="errorContent"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Тип доставки:</label>
+                <select id="deliveryType">
+                    <option value="0">Поштомат (Branch)</option>
+                    <option value="1">Кур'єр (Courier)</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Вага (кг):</label>
+                <input type="number" step="0.1" id="weight" value="1">
+                <span class="error-msg" id="errorWeight"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Ширина (см):</label>
+                <input type="number" id="width" value="10">
+            </div>
+
+            <div class="form-group">
+                <label>Висота (см):</label>
+                <input type="number" id="height" value="10">
+            </div>
+
+            <div class="form-group">
+                <label>Глибина (см):</label>
+                <input type="number" id="depth" value="10">
+            </div>
+
+            <div class="form-group">
+                <label>Цінність (грн):</label>
+                <input type="number" id="value" value="100">
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn primary">Зберегти</button>
+                <a href="postings.html" class="btn secondary">Скасувати</a>
+            </div>
+        </form>
+    </main>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', checkEditMode);
+    </script>
+</body>
+</html>
